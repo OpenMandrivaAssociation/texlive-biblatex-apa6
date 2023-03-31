@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-apa6
 Version:	56209
-Release:	1
+Release:	2
 Summary:	BibLaTeX citation and reference style for APA 6th Edition
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-apa6
