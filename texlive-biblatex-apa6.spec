@@ -3,7 +3,7 @@ Version:	56209
 Release:	2
 Summary:	BibLaTeX citation and reference style for APA 6th Edition
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-apa6
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-apa6
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-apa6.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-apa6.doc.r%{version}.tar.xz
